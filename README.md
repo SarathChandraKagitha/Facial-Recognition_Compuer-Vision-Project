@@ -9,7 +9,7 @@ This project is aimed at implementing facial recognition capabilities using comp
 
 • Detection of faces in uploaded video files.
 
-• Capability to handle multiple faces in a single frame.
+• Capability to handle multiple faces in a single frame. 
 
 • Easy-to-use interface for both live and uploaded video analysis.
 
@@ -23,8 +23,11 @@ This project is aimed at implementing facial recognition capabilities using comp
 • Matplotlib (for visualization, optional)
 
 ### Installation
-Clone the repository to your local machine: git clone https://github.com/username/Facial-Recognition-Computer-Vision.git
-Install the required Python packages: pip install opencv-python numpy matplotlib
+1.Clone the repository to your local machine: 
+git clone https://github.com/username/Facial-Recognition-Computer-Vision.git
+
+2.Install the required Python packages: 
+pip install opencv-python numpy matplotlib
 
 
 ### Usage
